@@ -28,6 +28,9 @@ repeat purchases, and loyalty behavior.
 - Insight report (PDF)
 - Dashboard screenshots
 - ## 📊 Dashboard Screenshots
+  
+### Executive Overview
+![Executive Overview](Images/Overview.png)
 
 ### Churn Analysis
 ![Churn Dashboard](Images/Churn Rate.png)
