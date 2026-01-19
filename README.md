@@ -36,7 +36,7 @@ repeat purchases, and loyalty behavior.
 ![Churn Dashboard](Images/Churn_Rate.png)
 
 ### Loyalty Analysis
-![Loyalty Dashboard](Images/High_Tier_Cistomers.png)
+![Loyalty Dashboard](Images/High_Tier_Customers.png)
 
 ### Loyalty Analysis
 ![Revenue Dashboard](Images/Revenue_Rate.png)
