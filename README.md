@@ -33,7 +33,7 @@ repeat purchases, and loyalty behavior.
 ![Executive Overview](Images/Overview.png)
 
 ### Churn Analysis
-![Churn Dashboard](Images/Churn Rate.png)
+![Churn Dashboard](Images/Churn_Rate.png)
 
 ### Loyalty Analysis
 ![CLV Dashboard](Images/CLV of the customer.png)
