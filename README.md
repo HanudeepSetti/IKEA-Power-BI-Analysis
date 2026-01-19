@@ -27,6 +27,22 @@ repeat purchases, and loyalty behavior.
 - Cleaned dataset
 - Insight report (PDF)
 - Dashboard screenshots
+- ## 📊 Dashboard Screenshots
+
+### Executive Overview
+![Executive Overview](Images/Overview.png)
+
+### Churn Analysis
+![Churn Dashboard](Images/Churn Rate.png)
+
+### Loyalty Analysis
+![CLV Dashboard](Images/CLV of the customer.png)
+
+### Loyalty Analysis
+![Loyalty Dashboard](Images/High Tier Cistomers.png)
+
+### Loyalty Analysis
+![Revenue Dashboard](Images/Revenue Rate.png)
 
 ## Key Insights
 - High churn observed in low-income segments
