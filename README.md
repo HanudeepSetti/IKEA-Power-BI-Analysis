@@ -29,9 +29,6 @@ repeat purchases, and loyalty behavior.
 - Dashboard screenshots
 - ## 📊 Dashboard Screenshots
 
-### Executive Overview
-![Executive Overview](Images/Overview.png)
-
 ### Churn Analysis
 ![Churn Dashboard](Images/Churn Rate.png)
 
